@@ -21,3 +21,8 @@ Leaflet 1.9.4 (BSD-2-Clause) and fflate 0.8.2 (MIT) are embedded; licences inclu
 See [Repair report](Repair_Report.md). The revised source contains 4,518 assigned entries and 231 held entries. The Data repair worksheet records the evidence. Original letters A–AB remain; added bands AC–AI fill gaps or extend coverage. Use numeric distance ranges rather than alphabetic order for the new bands.
 
 Compare multiple areas lets you select multiple zones or keep several suburbs, full postcodes and whole named clusters highlighted. The original search and details remain available. Grey boundaries with no coverage row show population-base context when available.
+
+
+## Reference context and automatic comparison
+
+Zone checkboxes update immediately. Comparison search suggests whole postcodes, clusters and localities. The source workbook adds Reference context and Online evidence: 230 held entries have geographic reference context; eight have explicitly unverified access-point models. Approximate postcode and parent-locality points are not exact facility addresses. Existing service assignments remain unchanged.
