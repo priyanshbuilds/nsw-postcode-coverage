@@ -14,3 +14,10 @@ Road references: © OpenStreetMap contributors, https://www.openstreetmap.org/co
 Population references: 2021 Census. Catchment population is modelled, not official town population or observed order demand. Routes are reference estimates, not live traffic. This draft shows no rates. Boundaries do not guarantee service at every address.
 
 Leaflet 1.9.4 (BSD-2-Clause) and fflate 0.8.2 (MIT) are embedded; licences included.
+
+
+## Data repair and multiple selection (29 October 2026)
+
+See [Repair report](Repair_Report.md). The revised source contains 4,518 assigned entries and 231 held entries. The Data repair worksheet records the evidence. Original letters A–AB remain; added bands AC–AI fill gaps or extend coverage. Use numeric distance ranges rather than alphabetic order for the new bands.
+
+Compare multiple areas lets you select multiple zones or keep several suburbs, full postcodes and whole named clusters highlighted. The original search and details remain available. Grey boundaries with no coverage row show population-base context when available.
